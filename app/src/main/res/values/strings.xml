@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CA1Sem6</string>
+    <string name="title_activity_alarm_receiver">AlarmReceiver</string>
+</resources>
